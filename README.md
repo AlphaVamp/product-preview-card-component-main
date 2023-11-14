@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Github Pages]()
+- Live Site URL: [Github Pages](https://alphavamp.github.io/product-preview-card-component-main/)
 
 ### Built with
 
