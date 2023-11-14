@@ -40,5 +40,3 @@ Users should be able to:
 - Github - [AlphaVamp](https://github.com/AlphaVamp)
 - Frontend Mentor - [Paresh2421](https://www.frontendmentor.io/profile/Paresh2421)
 - LinkedIn - [Paresh Nair](https://www.linkedin.com/in/paresh-nair-1987b4254)
-
-
